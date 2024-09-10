@@ -4,7 +4,7 @@
 
 * You can contact us at <tinasaaikiaa1997@gmail.com> to resolve your queries regarding our paper and implementation.
 
-* If you find this repository helpful for your project or research, please cite this paper as [Citation](https://github.com/SnehaShukla937/MEDIS_ATTACK/tree/main#4-citation).
+* If you find this repository helpful for your project or research, please cite this paper as [Citation](https://github.com/TrishnaSaikia/Lung-Nodule-Classification-Transfer-Learning/tree/main#4-citation).
 
 ## 2. Overview
 ### 2.1  Abstract:
